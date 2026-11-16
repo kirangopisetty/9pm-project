@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/createcourse"
+  },
+  "response": {
+    "status": 201,
+    "body": "{\"course\": \"k6\", \"message\": \"The k6 course is created successfully\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

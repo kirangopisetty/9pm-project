@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-16T21:55:01 IST" name="Default suite" finished-at="2026-11-16T21:55:03 IST" duration-ms="1560">
+    <groups>
+    </groups>
+    <test started-at="2026-11-16T21:55:01 IST" name="Default test" finished-at="2026-11-16T21:55:03 IST" duration-ms="1560">
+      <class name="com.api.tests.TC54_WIREMOCK_API">
+        <test-method signature="getAPImocking()[pri:1, instance:com.api.tests.TC54_WIREMOCK_API@e70f13a]" started-at="2026-11-16T21:55:01 IST" name="getAPImocking" finished-at="2026-11-16T21:55:03 IST" duration-ms="1340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPImocking -->
+        <test-method signature="postAPImocking()[pri:2, instance:com.api.tests.TC54_WIREMOCK_API@e70f13a]" started-at="2026-11-16T21:55:03 IST" name="postAPImocking" finished-at="2026-11-16T21:55:03 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPImocking -->
+        <test-method signature="deleteAPImocking()[pri:3, instance:com.api.tests.TC54_WIREMOCK_API@e70f13a]" started-at="2026-11-16T21:55:03 IST" name="deleteAPImocking" finished-at="2026-11-16T21:55:03 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAPImocking -->
+      </class> <!-- com.api.tests.TC54_WIREMOCK_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

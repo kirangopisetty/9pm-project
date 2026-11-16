@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "DELETE",
+    "url": "/deletecourse/k6"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"course\": \"k6\", \"message\": \"The k6 course is deleted successfully\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

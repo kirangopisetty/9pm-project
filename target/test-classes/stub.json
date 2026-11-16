@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/allcourses"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"course1\": \"Postman\", \"course2\": \"Rest-Assured\", \"course3\": \"k6\", \"course4\": \"JMeter\", \"course5\": \"Katalon Studio\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
